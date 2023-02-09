@@ -1,5 +1,5 @@
 <idea-plugin>
-  <name>Barney Progress Bar</name>
+  <name>BarneyProgressBar</name>
   <version>1.0</version>
   <idea-version since-build="193"/>
   <vendor email="sunpeiting07@gmail.com">Peiting</vendor>
